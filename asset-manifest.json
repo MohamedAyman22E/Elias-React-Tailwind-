@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Elias-React-Tailwind-/static/css/main.660e88d1.css",
+    "main.js": "/Elias-React-Tailwind-/static/js/main.7356bc95.js",
+    "static/media/man2.png": "/Elias-React-Tailwind-/static/media/man2.abca880a7c9f0cba74be.png",
+    "static/media/man.png": "/Elias-React-Tailwind-/static/media/man.ad46e82b87f1e053587f.png",
+    "static/media/Rectangle 22.jpg": "/Elias-React-Tailwind-/static/media/Rectangle 22.6f69322432041f15b175.jpg",
+    "static/media/Rectangle 22.png": "/Elias-React-Tailwind-/static/media/Rectangle 22.3792a12ac8c8bdf347c6.png",
+    "static/media/Rectangle 22 (1).png": "/Elias-React-Tailwind-/static/media/Rectangle 22 (1).e342c01770c03be64659.png",
+    "index.html": "/Elias-React-Tailwind-/index.html",
+    "main.660e88d1.css.map": "/Elias-React-Tailwind-/static/css/main.660e88d1.css.map",
+    "main.7356bc95.js.map": "/Elias-React-Tailwind-/static/js/main.7356bc95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.660e88d1.css",
+    "static/js/main.7356bc95.js"
+  ]
+}
